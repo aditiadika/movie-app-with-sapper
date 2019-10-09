@@ -1,3 +1,7 @@
+# movie app
+
+![img](https://i.imgur.com/1dha6m5.png)
+
 # sapper-template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, with branches for Rollup and webpack. To clone it and get started:
